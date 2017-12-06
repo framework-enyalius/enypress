@@ -1,0 +1,1 @@
+httpd -D FOREGROUND &
